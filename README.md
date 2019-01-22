@@ -22,6 +22,7 @@ Hello, this is r3coder. Currently, this page is on maintain mode.
 - Calculate timer
 
 ### Room design
+don't be too complicated!!!!!!!!!!!!
 - Room 0
 Introduction, how to play this game
 - Room 1
