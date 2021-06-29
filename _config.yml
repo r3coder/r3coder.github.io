@@ -28,7 +28,7 @@ twitter_username: r3c0d3r
 github_username:  r3coder
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: minima
 plugins:
   - jekyll-feed
 
